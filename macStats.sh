@@ -2,7 +2,7 @@
 #set -x
 ####################################################################################### 
 #Script to check if specific features are installed and operational
-#Developed by        : LTI-Apple Dev Team 
+#Developed by        : Devopam
 #Initial Version     : 1.0
 #Release Date        : 13 May, 2019
 ####################################################################################### 
